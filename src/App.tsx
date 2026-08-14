@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <h1>Welcome to React</h1>
-      <p>This is a simple React app.</p>
+    <h2></h2>
     </>
   )
 }
