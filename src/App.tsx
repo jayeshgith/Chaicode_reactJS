@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <h1>Welcome to React</h1>
-    <h2></h2>
+    <h1>My name is Manish</h1>
     </>
   )
 }
